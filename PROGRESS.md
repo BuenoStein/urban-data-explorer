@@ -1,22 +1,5 @@
 # urban-data-explorer — Progresso de Estudo
 
----
-
-## Recursos disponíveis e onde cada um entra
-
-|Recurso|O que cobre|Onde usar|
-|---|---|---|
-|Automate the Boring Stuff (gratuito: automatetheboringstuff.com)|Python do zero — variáveis, listas, funções, arquivos|Seções 1.1 e 1.2|
-|Real Python — OOP Tutorial (gratuito: realpython.com/python3-object-oriented-programming)|Classes, herança, métodos especiais|Seção 1.2|
-|Géron cap. 2 (Projeto de Ponta a Ponta)|NumPy, Pandas, visualização, pré-processamento aplicados|Seções 1.3, 1.4, 1.5|
-|Escovedo cap. 3|Estatística e álgebra linear com exemplos|Fase 2 (próxima)|
-|Géron caps. 1, 3, 4|Fundamentos de ML, classificação, treinamento de modelos|Fase 3 (futura)|
-|Géron caps. 5, 6, 7|SVM, árvores de decisão, Random Forest|Fase 3 (futura)|
-|Géron caps. 10–13 (só teoria, ignorar código TensorFlow)|Redes neurais, CNNs — conceitos para Fase 4|Fase 4 (futura)|
-|PyTorch docs oficiais (pytorch.org/tutorials)|Implementação de redes neurais — substitui código do Géron Parte II|Fase 4 (futura)|
-
----
-
 ## Seção 1.1 — Python do zero
 
 **Notebook:** `notebooks/01_python_fundamentos.ipynb` **Recurso:** Automate the Boring Stuff caps. 1–9
