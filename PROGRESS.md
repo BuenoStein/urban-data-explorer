@@ -6,14 +6,14 @@
 
 ### Conceitos
 
-- [ ] Variáveis e tipos: int, float, str, bool, None
-- [ ] Operadores aritméticos, de comparação e lógicos
-- [ ] Strings: fatiamento, split, join, strip, f-strings
-- [ ] Listas: criação, indexação, append, pop, sort
-- [ ] Dicionários: chave-valor, get, keys, values, items
-- [ ] Conjuntos (sets): união, interseção, diferença
-- [ ] Estruturas de controle: if, elif, else
-- [ ] Laços: for, while, break, continue
+- [✔] Variáveis e tipos: int, float, str, bool, None
+- [✔] Operadores aritméticos, de comparação e lógicos
+- [✔] Strings: fatiamento, split, join, strip, f-strings
+- [✔] Listas: criação, indexação, append, pop, sort
+- [✔] Dicionários: chave-valor, get, keys, values, items
+- [✔] Conjuntos (sets): união, interseção, diferença
+- [✔] Estruturas de controle: if, elif, else
+- [¶] Laços: for, while, break, continue
 - [ ] List comprehensions
 - [ ] Funções: def, parâmetros, retorno, escopo local vs global
 - [ ] *args e **kwargs
